@@ -1,6 +1,6 @@
 ## Iris Data Visualisation and Analysis
 
-This repository displays a comprehensive exploration of the Iris dataset, unveiling patterns and relationships between its features. It stands as a testament to the repository owner's adeptness in data analysis and visualisation.
+This repository contains some exploration of the Iris dataset, unveiling patterns and relationships between its features using visualisations.
 
 ### Pair Plot
 The pair plot offers a pairwise relationship for each feature duo. Its diagonal reveals a single feature's distribution via a histogram, while scatter plots dominate the off-diagonal elements.

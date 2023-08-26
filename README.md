@@ -37,7 +37,7 @@ For the Iris dataset, the swarm plot distinctly separates setosa based on petal 
 ### KDE Plot
 The KDE plots provide a visual representation of data distribution, shedding light on its probability density.
 
-![KDE Plot](KDE_plot.png) *(Note: Image link is a placeholder, you'd need to replace it with the actual path.)*
+![KDE Plot](KDE_plot.png)
 
 #### Analysis
 The Iris dataset's KDE plot accentuates the setosa species' distinctly smaller petal lengths. While versicolor generally sports medium petal lengths, virginica claims the longest.
